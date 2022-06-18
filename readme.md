@@ -18,7 +18,10 @@ Camera call: OpenCV
 
 ## Usage
 Run the main.py function using Pycharm configuration.
-This function will use
+
+This function will call the camera and use the pretrained model saved
+in checkpoints to predict if a mug with logo or without is present
+in a camera frame. 
 
 ## Dataset
 The dataset used to train the model is part of 
